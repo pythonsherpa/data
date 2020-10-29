@@ -1,201 +1,21 @@
 Country,City,Sales,Costs
-Afghanistan,Kabul,169,109
-Albania,Tirana,131,64
-Algeria,Algiers,109,86
-Andorra,Andorra la Vella,79,71
-Angola,Luanda,185,97
-Antigua and Barbuda,Saint John's,68,61
-Argentina,Buenos Aires,76,83
-Armenia,Yerevan,145,102
-Australia,Canberra,175,104
 Austria,Vienna,185,103
-Azerbaijan,Baku,114,106
-Bahamas,Nassau,176,69
-Bahrain,Manama,118,119
-Bangladesh,Dhaka,92,103
-Barbados,Bridgetown,106,112
-Belarus,Minsk,190,91
 Belgium,Brussels,196,76
-Belize,Belmopan,114,60
-Benin,Porto Novo,166,101
-Bhutan,Thimphu,80,105
-Bolivia,Sucre,84,120
-Bosnia,Sarajevo,186,64
-Botswana,Gaborone,106,65
-Brazil,Brasilia,127,67
-Brunei,Bandar Seri Begawan,77,85
-Bulgaria,Sofia,175,77
-Burkina Faso,Ouagadougou,182,84
-Burundi,Gitega,168,89
-Cambodia,Phnom Penh,138,102
-Cameroon,Yaounde,186,112
 Canada,Ottawa,103,112
-Cape Verde,Praia,186,94
-Central African Republic,Bangui,100,96
-Chad,N'Djamena,82,62
-Chile,Santiago,164,110
-China,Beijing,178,73
-Colombia,Bogota,148,97
-Comoros,Moroni,138,92
-"Congo, Democratic Republic of the",Kinshasa,124,85
-"Congo, Republic of the",Brazzaville,123,70
-Costa Rica,San Jose,193,115
-Côte d'Ivoire (Ivory Coast),Yamoussoukro,79,110
-Croatia,Zagreb,125,83
-Cuba,Havana,58,119
-Cyprus,Nicosia,153,79
-Czech Republic (Czechia),Prague,59,94
 Denmark,Copenhagen,90,113
-Djibouti,Djibouti,135,90
-Dominica,Roseau,131,101
-Dominican Republic,Santo Domingo,53,60
-East Timor,Dili,102,84
-Ecuador,Quito,160,102
-Egypt,Cairo,143,94
-El Salvador,San Salvador,91,92
-England,London,161,102
-Equatorial Guinea,Malabo,66,98
-Eritrea,Asmara,104,91
-Estonia,Tallinn,93,63
-Eswatini,Mbabana,108,66
-Ethiopia,Addis Ababa,79,81
-Federated States of Micronesia,Palikir,187,98
-Fiji,Suva,186,108
 Finland,Helsinki,102,62
 France,Paris,155,89
-Gabon,Libreville,151,84
-Gambia,Banjul,125,84
-Georgia,Tbilisi,199,73
-Germany,Berlin,130,74
-Ghana,Accra,77,75
+Germany,Berlin,188,74
 Greece,Athens,54,81
-Grenada,Saint George's,104,84
-Guatemala,Guatemala City,91,100
-Guinea,Conakry,55,74
-Guinea-Bissau,Bissau,191,87
-Guyana,Georgetown,116,70
-Haiti,Port au Prince,185,113
-Honduras,Tegucigalpa,155,89
 Hungary,Budapest,197,118
-Iceland,Reykjavik,140,114
-India,New Delhi,142,66
-Indonesia,Jakarta,64,109
-Iran,Tehran,191,103
-Iraq,Baghdad,132,73
-Ireland,Dublin,174,60
-Israel,Jerusalem,155,72
 Italy,Rome,187,66
-Jamaica,Kingston,129,87
-Japan,Tokyo,166,94
-Jordan,Amman,158,101
-Kazakhstan,Nur-Sultan,70,109
-Kenya,Nairobi,170,99
-Kiribati,Tarawa Atoll,74,60
-Kosovo,Pristina,108,74
-Kuwait,Kuwait City,153,97
-Kyrgyzstan,Bishkek,182,71
-Laos,Vientiane,191,114
-Latvia,Riga,116,96
-Lebanon,Beirut,197,111
-Lesotho,Maseru,181,109
-Liberia,Monrovia,87,86
-Libya,Tripoli,66,66
-Liechtenstein,Vaduz,61,95
-Lithuania,Vilnius,57,79
 Luxembourg,Luxembourg,83,80
-Madagascar,Antananarivo,54,74
-Malawi,Lilongwe,110,89
-Malaysia,Kuala Lumpur,102,71
-Maldives,Male,193,93
-Mali,Bamako,148,113
-Malta,Valletta,96,73
-Marshall Islands,Majuro,135,72
-Mauritania,Nouakchott,113,84
-Mauritius,Port Louis,99,76
-Mexico,Mexico City,65,85
-Moldova,Chisinau,124,119
-Monaco,Monaco,150,64
-Mongolia,Ulaanbaatar,133,99
-Montenegro,Podgorica,118,75
-Morocco,Rabat,192,71
-Mozambique,Maputo,186,106
-Myanmar (Burma),Nay Pyi Taw,120,98
-Namibia,Windhoek,189,74
-Nauru,,150,97
-Nepal,Kathmandu,66,103
-Netherlands,Amsterdam,53,77
-New Zealand,Wellington,91,85
-Nicaragua,Managua,165,90
-Niger,Niamey,130,107
-Nigeria,Abuja,198,107
-North Korea,Pyongyang,166,87
-North Macedonia (Macedonia),Skopje,142,64
-Northern Ireland,Belfast,167,118
-Norway,Oslo,190,60
-Oman,Muscat,157,67
-Pakistan,Islamabad,107,114
-Palau,Melekeok,174,112
-Panama,Panama City,109,103
-Papua New Guinea,Port Moresby,68,100
-Paraguay,Asuncion,146,113
-Peru,Lima,162,101
-Philippines,Manila,87,95
+Netherlands,Amsterdam,210,77
 Poland,Warsaw,147,68
 Portugal,Lisbon,120,101
-Qatar,Doha,191,98
-Romania,Bucharest,84,90
-Russia,Moscow,66,112
-Rwanda,Kigali,82,90
-Saint Kitts and Nevis,Basseterre,96,94
-Saint Lucia,Castries,108,79
-Saint Vincent and the Grenadines,Kingstown,99,66
-Samoa,Apia,136,108
-San Marino,San Marino,121,91
-Sao Tome and Principe,Sao Tome,164,72
-Saudi Arabia,Riyadh,193,66
-Scotland,Edinburgh,69,78
-Senegal,Dakar,197,60
-Serbia,Belgrade,59,103
-Seychelles,Victoria,78,60
-Sierra Leone,Freetown,174,90
-Singapore,Singapore,90,104
-Slovakia,Bratislava,192,60
 Slovenia,Ljubljana,194,79
-Solomon Islands,Honiara,197,110
-Somalia,Mogadishu,132,82
-South Africa,Pretoria,134,60
-South Korea,Seoul,167,115
-South Sudan,Juba,176,120
 Spain,Madrid,178,97
-Sri Lanka,Colombo,122,73
-Sudan,Khartoum,133,90
-Suriname,Paramaribo,155,61
 Sweden,Stockholm,179,103
 Switzerland,Bern,189,90
-Syria,Damascus,178,82
-Taiwan,Taipei,165,71
-Tajikistan,Dushanbe,53,88
-Tanzania,Dodoma,174,120
-Thailand,Bangkok,70,95
-Togo,Lome,142,114
-Tonga,Nuku'alofa,87,65
-Trinidad and Tobago,Port of Spain,60,69
-Tunisia,Tunis,146,93
-Turkey,Ankara,92,120
-Turkmenistan,Ashgabat,113,85
-Tuvalu,Funafuti,118,64
-Uganda,Kampala,83,103
-Ukraine,Kiev,92,119
-United Arab Emirates,Abu Dhabi,138,106
 United Kingdom,London,184,105
 United States,Washington D.C.,120,84
-Uruguay,Montevideo,199,111
-Uzbekistan,Tashkent,178,82
-Vanuatu,Port Vila,73,118
-Vatican City,Vatican City,193,92
-Venezuela,Caracas,113,84
-Vietnam,Hanoi,133,116
-Wales,Cardiff,155,117
-Yemen,Sana'a,89,98
-Zambia,Lusaka,141,103
-Zimbabwe,Harare,159,105
